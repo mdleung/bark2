@@ -64,8 +64,8 @@ preload_models()
 
 # generate audio from text
 text_prompt = """
-     Hello, my name is Suno. And, uh — and I like pizza. [laughs] 
-     But I also have other interests such as playing tic tac toe.
+    Financial Analysis
+The consolidated balance sheet of ExxonMobil shows a slight increase in total assets from 2020 to 2021. The increase is primarily due to an increase in property, plant and equipment, and investments, advances and long-term receivables.
 """
 audio_array = generate_audio(text_prompt)
 
